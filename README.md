@@ -1,6 +1,6 @@
 # <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHc4czltZnUzMGJsMmNtMXRqdHg2a3Z5OGZhaWdjbGdra2FtazdhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width=40 height=40/> Bienvenid@ a mi Github
 
-## <img src="./github-header-image.png" >
+![Banner Victor Presilla](github-header-image.png)
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/victorPresillaVK/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/presillavk/)
