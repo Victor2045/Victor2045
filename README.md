@@ -1,4 +1,4 @@
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHc4czltZnUzMGJsMmNtMXRqdHg2a3Z5OGZhaWdjbGdra2FtazdhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width= 50/> Bienvenid@ a mi Github
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHc4czltZnUzMGJsMmNtMXRqdHg2a3Z5OGZhaWdjbGdra2FtazdhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width=40 height=40/> Bienvenid@ a mi Github
 
 ![Banner Victor Presilla](github-header-image.png)
 
