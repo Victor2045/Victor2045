@@ -9,9 +9,9 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/VictorP_dev)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@presillavk)
 
-Hola soy Victor Presilla, Estudiante de Ciencias Fiscales y aficionado a la tecnologia, ya me encuentro finalizando mi carrera en la [Universiada Nacional Experimental de guayana](https://www.uneg.edu.ve/), y ahora estoy cursando en la Academia [<img src=https://cdn.prod.website-files.com/63c2c7b1f3d9c51c32335fb0/63d3ca742762efa89c75d3e2_logo-conquerblocks-footer.svg width= 60/>](https://www.conquerblocks.com/) en el master de [Full stack Developer](https://www.conquerblocks.com/master-desarrollo-web-full-stack).
+Hola soy Victor Presilla, **Estudiante de Ciencias Fiscales** y aficionado a la tecnologia, ya me encuentro finalizando mi carrera en la [Universiada Nacional Experimental de guayana](https://www.uneg.edu.ve/), y ahora estoy cursando en la Academia [<img src=https://cdn.prod.website-files.com/63c2c7b1f3d9c51c32335fb0/63d3ca742762efa89c75d3e2_logo-conquerblocks-footer.svg width= 60/>](https://www.conquerblocks.com/) en el master de [Full stack Developer](https://www.conquerblocks.com/master-desarrollo-web-full-stack).
 
-## Tecnologias 💻
+## **Tecnologias** 💻
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)	
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -24,7 +24,7 @@ Hola soy Victor Presilla, Estudiante de Ciencias Fiscales y aficionado a la tecn
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
  
-## Stats 📊
+## **Stats** 📊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor2045&layout=compact&theme=dark)
 
 ![Anurag's   GitHub stats](https://github-readme-stats.vercel.app/api?username=victor2045&show_icons=true&theme=dark)
